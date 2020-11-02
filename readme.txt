@@ -7,7 +7,7 @@ prints first N prime numbers and fibonacci numbers parallely using Promises
 To run PrintNumbers.js file use the below command,
 
 Command description:
-		`node PrimeNumbers.js [limit]`
+		`node PrintNumbers.js [limit]`
 
 		limit - total number of prime numbers and fibonacci numbers to be generated.
 
@@ -15,6 +15,6 @@ Command description:
 
 Example with limit of 10, which generates first 10 prime and fibonacci numbers:
 
-		`node PrimeNumbers.js 10` 
+		`node PrintNumbers.js 10` 
 
      
